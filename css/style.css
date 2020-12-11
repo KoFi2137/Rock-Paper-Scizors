@@ -1,5 +1,5 @@
 body {
-    background-color: black;
+    background-color: rgb(68, 68, 68);
 }
 #top h1 {
     color: white;
@@ -13,5 +13,32 @@ body {
     text-align: center;
 }
 #fota1 {
+    width: 200px;
+}
+#fota2 {
+    width: 200px;
+}
+#warrior h2 {
+    color: white;
+}
+#warrior {
+    margin-top: 150px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+#chose div {
+    border: 5px double black;
     width: 150px;
+    height: 150px;
+}
+#chose img {
+    width: 150px;
+    height: 150px;
+}
+#chose {
+    margin-top: 50px;
+    margin-bottom: 100px;
+    display: flex;
+    justify-content: space-around;
 }
