@@ -1,3 +1,17 @@
-h1 {
-    color: brown;
+body {
+    background-color: black;
+}
+#top h1 {
+    color: white;
+    text-align: center;
+}
+#rules {
+    margin-top: 100px;
+}
+#rules h3, p {
+    color: white;
+    text-align: center;
+}
+#fota1 {
+    width: 150px;
 }
