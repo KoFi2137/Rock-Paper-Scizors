@@ -24,8 +24,10 @@ body {
 #warrior {
     margin-top: 150px;
     display: flex;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
+    margin-left: 20%;
+    margin-right: 20%;
 }
 #chose div {
     border: 5px double black;
